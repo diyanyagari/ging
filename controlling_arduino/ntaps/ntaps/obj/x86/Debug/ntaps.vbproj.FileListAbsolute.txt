@@ -1,0 +1,13 @@
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\obj\x86\Debug\ntaps.Form1.resources
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\obj\x86\Debug\ntaps.Resources.resources
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\obj\x86\Debug\ntaps.vbproj.GenerateResource.Cache
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\bin\Debug\ntaps.exe
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\bin\Debug\ntaps.pdb
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\bin\Debug\ntaps.xml
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\obj\x86\Debug\ntaps.exe
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\obj\x86\Debug\ntaps.xml
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\obj\x86\Debug\ntaps.pdb
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\bin\Debug\ntaps.exe.manifest
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\bin\Debug\ntaps.application
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\obj\x86\Debug\ntaps.exe.manifest
+D:\kuliah\smt 5\Sistem Mikrocontroller\programGUI\ujicobTahap1\ntaps\ntaps\obj\x86\Debug\ntaps.application
